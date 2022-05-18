@@ -377,7 +377,7 @@ body {
 
 /* Media Queries Part For Desktop */
 
-@media (min-width: 480px) {
+@media (min-width: 40rem) {
   .main-header {
     padding: 8px 16px;
     background-color: #34495e;
@@ -472,7 +472,7 @@ body {
   }
 }
 
-@media (max-width: 479px) {
+@media (max-width: 39.5rem) {
   .section_title {
     display: none;
   }
