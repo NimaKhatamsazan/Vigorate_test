@@ -424,14 +424,13 @@ body {
     background-color: #8cc14f;
     color: #fffeff;
     padding: 1rem;
-    margin: 0.5rem 38rem;
+    margin: 0.5rem 40%;
     border-radius: 5px;
     outline: none;
     border: none;
     font-size: larger;
     width: 15rem;
     margin-bottom: 2rem;
-    left: 50%;
   }
 
   .modal_title {
